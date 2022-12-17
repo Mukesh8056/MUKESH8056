@@ -1,3 +1,4 @@
+<div style="background-color:blue">
 <h1 align="center">Hi 👋, I'm Mukesh8056</h1>
 <h3 align="center">Full Stack Developer(MERN stack)</h3>
 
@@ -23,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukesh8056&show_icons=true&locale=en" alt="mukesh8056" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh8056&" alt="mukesh8056" /></p>
+  </div>
