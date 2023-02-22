@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mukesh Venkatesan</h1>
 <h3 align="center">Full Stack Developer(MERN stack)</h3>
 
-- 🌱 I’m currently learning **Full Stack Developer(MERN stack)**
+- 🌱 I’m currently a **Full Stack Developer(MERN stack)**
 
 - 📫 How to reach me **mukeshvenkatesan89@gmail.com**
 
